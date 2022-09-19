@@ -39,7 +39,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/zhyne-a-amenodin-66a02a242/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[zhyne%amenodin%20Singh](https://www.linkedin.com/in/zhyne-a-amenodin-66a02a242/)-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="www.linkedin.com/in/zhyne-amenodin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhyne%20Amenodin%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="amenodin.za28@s.msumain.edu.ph"><img alt="Email" src="https://img.shields.io/badge/Email-amenodin.za28@s.msumain.edu.ph-blue?style=flat-square&logo=gmail"></a>
 </p>
 

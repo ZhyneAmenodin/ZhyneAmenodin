@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Information Technology Major in Database systems at Mindanao State University.
-- 💼 &nbsp; Working as an Intern React JS Developer at APGIT Solutions inc. 
+- 🎓 &nbsp; Graduate in Information Technology Major in Database systems at Mindanao State University.
+- 💼 &nbsp; Working as an Software Developer at APGIT Solutions inc. 
 - ✍️ &nbsp; Pursuing Front-end Development and Games as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

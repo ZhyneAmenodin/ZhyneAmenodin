@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduate in Information Technology Major in Database systems at Mindanao State University.
-- 💼 &nbsp; Working as an Software Developer at APGIT Solutions inc. 
+- 💼 &nbsp; Working as an Software Developer. 
 - ✍️ &nbsp; Pursuing Full-stack Development and Games as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -42,7 +42,7 @@
 
 
 <a href="https://www.linkedin.com/in/zhyne-amenodin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhyne%20Amenodin-blue?style=flat-square&logo=linkedin"></a>
-<a href="amenodin.za28@s.msumain.edu.ph"><img alt="Email" src="https://img.shields.io/badge/Email-amenodin.za28@s.msumain.edu.ph-blue?style=flat-square&logo=gmail"></a>
+<a href="zhyne.amenodin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amenodin.za28@s.msumain.edu.ph-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 

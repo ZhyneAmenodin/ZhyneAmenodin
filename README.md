@@ -19,7 +19,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
-  ![Material-ui](https://img.shields.io/badge/Material--UI-333333?style=flat&logo=material-ui)
+  ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;

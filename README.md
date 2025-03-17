@@ -19,15 +19,22 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
-  ![Material-ui](https://img.shields.io/badge/Material--UI-333333?style=flat&logo=material-ui)
+  ![Material-ui](https://img.shields.io/badge/Material--UI-333333?style=flat&logo=mui)
+  ![Vue.js]( https://img.shields.io/badge/-Node.js-333333?style=flat&logo=vuedotjs)
+  ![Next.js]( https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+  ![Quasar.js]( https://img.shields.io/badge/-Quasar.js-333333?style=flat&logo=quasar&logoColor=0066ff)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=graphql&logoColor=E10098)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+  ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase&logoColor=DD2C00)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  
 <br/>
 
 <a href="https://github.com/ZhyneAmenodin">
